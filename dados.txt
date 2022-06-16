@@ -1,0 +1,15 @@
+Dados do aluno
+
+-Primeiro Nome: Aline Serafim da Silva
+-Profissão: Gerente Administrativo
+-Cidade: Sombrio - sc
+-O que faz nas horas vaga: Faço jiu-jitsu, gosto de ler e assistir série
+-Feedback sobre o curso Qualidade de Software: 
+ Um curso bem completo.
+ Sou nova nessa área de Tecnologia e consigo acompanhar tranquilamente as aulas.
+-Feedback sobre a plataforma de estudo da EBAC:
+ Plataforma bem dinamica e de facil acesso.
+
+Obrigado!!!
+
+
